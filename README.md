@@ -56,6 +56,7 @@ Getting started takes three steps:
 - All accounts - Email Sending:Edit, DNS Settings:Edit, Email Routing Addresses:Edit
 - All zones - DNS Settings:Edit, Email Routing Rules:Edit, Zone Settings:Edit, DNS:Edit
 
+Make sure it is account-wide token.
 See the [deployment guide](docs/deployment.md) for required permissions, manual deployment, backups, and updates.
 
 ### Self-host with Docker instead
